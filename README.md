@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [Ha Noi Open University of Technology and Education] (HOU).
+- ✍ I'm a student of: [Ha Noi Open University] (HOU).
 
 - 🌱 I’m currently learning Web deverloper**
 - ❤️ Forever one love 💕
