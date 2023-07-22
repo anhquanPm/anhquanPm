@@ -14,14 +14,14 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/thocodeanhquan/Github-Profile-Tutorial](https://badges.gitter.im/thocodeanhquan/Github-Profile-Tutorial.svg)](https://gitter.im/thocodeanhquan/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/anhquanPm/Github-Profile-Tutorial](https://badges.gitter.im/anhquanPm/Github-Profile-Tutorial.svg)](https://gitter.im/anhquanPm/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <p align="center">
  
   </a>
   <a href="https://www.facebook.com/2uanvy/" alt="Facebook">
    <img src="https://img.icons8.com/bubbles/50/null/facebook-new.png"/>
   </a> 
-  <a href="https://github.com/thocodeanhquan" alt="Github">
+  <a href="https://github.com/anhquanPm" alt="Github">
    <img src="https://img.icons8.com/plasticine/48/null/github.png"/>
   </a> 
   <a href="https://www.youtube.com/@nCoVyRemix" alt="Youtube channel" target="_blank" >
@@ -30,7 +30,7 @@
   <a href="https://quantapcode2004.blogspot.com" alt="Blogger" target="_blank" >
     <img src="https://img.icons8.com/doodle/48/null/blogger--v1.png"/>
   </a>
-  <a href="thocodeanhquaun@gmail.com" alt="Email">
+  <a href="thocodeanhquan@gmail.com" alt="Email">
    <img src="https://img.icons8.com/bubbles/48/null/apple-mail.png"/>
   </a>
 </p>
@@ -43,8 +43,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thocodeanhquan&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=thocodeanhquan&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="thocodeanhquan" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhquanPm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anhquanPm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="anhquanPm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
