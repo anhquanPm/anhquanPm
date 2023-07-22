@@ -8,7 +8,7 @@
 - ✍ I'm a student of: [Ha Noi Open University] (HOU).
 
 - 🌱 I’m currently learning Web developer**
-- ❤️ Forever one love 💕
+- 🤡🕷️💀
 
 <br />
 
