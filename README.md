@@ -4,10 +4,7 @@
     <h3 align="center"><img src="https://img.icons8.com/bubbles/100/null/vietnam--v1.png"/>
 </p>
 
-
-- ✍ I'm a student of: [Ha Noi Open University] (HOU).
-
-- 🌱 I’m currently learning Web developer**
+- 🌱 I’m currently Mobile Dev**
 - 🤡🕷️💀🐮
 
 <br />
